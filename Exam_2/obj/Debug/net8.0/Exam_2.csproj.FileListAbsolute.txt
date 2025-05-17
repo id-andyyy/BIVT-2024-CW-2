@@ -1,0 +1,14 @@
+/Users/andy/RiderProjects/Exam_2/Exam_2/bin/Debug/net8.0/Exam_2
+/Users/andy/RiderProjects/Exam_2/Exam_2/bin/Debug/net8.0/Exam_2.deps.json
+/Users/andy/RiderProjects/Exam_2/Exam_2/bin/Debug/net8.0/Exam_2.runtimeconfig.json
+/Users/andy/RiderProjects/Exam_2/Exam_2/bin/Debug/net8.0/Exam_2.dll
+/Users/andy/RiderProjects/Exam_2/Exam_2/bin/Debug/net8.0/Exam_2.pdb
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.AssemblyInfoInputs.cache
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.AssemblyInfo.cs
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.csproj.CoreCompileInputs.cache
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.dll
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/refint/Exam_2.dll
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.pdb
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/Exam_2.genruntimeconfig.cache
+/Users/andy/RiderProjects/Exam_2/Exam_2/obj/Debug/net8.0/ref/Exam_2.dll

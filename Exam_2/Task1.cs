@@ -21,7 +21,7 @@ namespace CW2.Var00
             var symbols = new char[]
                 { '.', '!', '?', ',', ':', '\'', ';', '–', '(', ')', '[', ']', '{', '}', '/', ' ' };
 
-            var res = Input.Split(symbols).Where(x => x != "").ToArray();
+            var res = Input.Split(symbols).Where(x => x != "" && x.Count(y => Char.IsDigit(y)) == 0).ToArray();
             _output = res.Length;
         }
 
